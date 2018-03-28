@@ -1,0 +1,93 @@
+
+.parentdiv
+      {
+        width: 1600px;
+        height: 900px;
+        overflow: hidden; 
+      }
+
+.container
+      {
+        width: 500px;
+        height: 490px;
+        background-color: #FFFFFF;
+        margin-top: 210px;
+        margin-left: 550px
+      }
+
+#head
+      {
+        width: 500px;
+        height: 100px;
+        background-color: #17a2d4;
+      }
+
+  .sportText
+      {
+        margin-top: 30px;
+        color: #f4f4f4;
+        font-size: 30px;
+        text-align: center;
+      }
+  	
+    #email
+    {
+      width: 450px;
+      height: 60px;
+      margin-top: 20px;
+      margin-left: 12.5px;
+    }
+
+    #password
+    {
+      width: 450px;
+      height: 60px;
+      margin-top: 20px;
+      margin-left: 12.5px;
+    }
+
+  #btnLogin
+      {
+        width: 450px;
+        height: 60px;
+        text-align: left;
+        font-size: 18px;
+        margin-top: 20px;
+        margin-left: 12.5
+      }
+
+  		#btnFacebook
+  		{
+  			width: 210px;
+        height: 60px;
+  			font-size: 18px;
+        margin-top: 19px;
+        margin-left: 12.5px;
+  		}
+
+      #btnGoogle
+      {
+        width: 210px;
+        height: 60px;
+        font-size: 18px;
+        margin-top: 20px;        
+      }
+  	
+  		#passLink
+  		{
+  			color: black;
+  			font-size: 18px;
+        margin-left: 13px;
+        margin-top: 20px;  
+        display:inline-block;
+  		}
+
+      #signupLink
+      {
+        color: black;
+        font-size: 18px;
+        margin-left: 104px;
+        margin-top: 22px;
+        display:inline-block;
+      }
+  		
