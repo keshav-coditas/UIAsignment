@@ -1,0 +1,117 @@
+.parent
+{
+  background-color: #969696;
+}
+
+.outer
+{
+  width: 500px;
+  height: auto;        
+  margin:auto;
+  margin-top: 100px;
+  background-color: #FFFFFF;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+
+.login-Form-title
+{
+  width: 500px;
+  height: 100px;
+  background-color: #17a2d4;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  overflow: hidden;
+}
+
+.sport-Text
+{
+  margin-top: 30px;
+  color: #f4f4f4;
+  font-size: 30px;
+  text-align: center;
+  font-weight: 800;
+  word-spacing: 20px;
+}
+
+.login-Form-Body
+{
+  margin-left: 25px;        
+}
+
+#txtEmail, #txtPassword
+{
+  background-color: #f6f6f6;
+  border-radius: 3px;
+  border-width: 1px;
+  border-color: #e8e8e8; 
+  border-style: solid;
+  color:  #969696;    
+}
+
+
+#txtEmail, #txtPassword, #btnLogin, #btnFacebook,  #btnGoogle, .link-div
+{
+  font-family: Lato;
+  margin-top: 20px;
+  font-weight: 400;
+}
+
+#txtEmail, #txtPassword, #btnLogin
+{
+  width: 450px;
+  height: 60px; 
+  padding: 0px 20px; 
+}
+
+#btnLogin
+{             
+  text-align: left;
+  background-color: #17a2d4;  
+}
+
+#btnFacebook
+{      
+  background-color: #3b5998;
+}
+
+#btnGoogle
+{          
+  background-color: #d34836;  
+  float:right;  
+  margin-right: 25px; 
+}
+  	
+#btnFacebook,#btnGoogle
+{
+  width: 210px;
+  height: 60px; 
+}
+
+#btnLogin, #btnFacebook, #btnGoogle, #passLink, #signupLink
+{
+  color: white;
+  font-size: 18px;      
+}
+
+button {
+  border-width: 1px;
+}
+
+#signupLink
+{               
+  float: right;
+  margin-right: 25px; 
+}
+
+#passLink,#signupLink
+{
+  color: black;
+ 
+}
+
+.link-div
+{
+  height: 48px;
+}
+  		
