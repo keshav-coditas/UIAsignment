@@ -1,0 +1,482 @@
+body
+{
+	background-color: #e8e8e8;
+	margin:0px;
+}
+
+.outer
+{
+	overflow: hidden;
+}
+
+.sports-exchange-nav
+{
+	background-color:  #17a2d4;
+	padding: 8px 285px 8px  271px;
+	overflow: hidden;
+}
+
+.sports-exchange-text
+{
+	font-family: Lato;
+	color:  #f4f4f4;
+	font-size: 24px;
+	font-weight: 800;
+	word-spacing: 12px;
+	float:left;
+	text-align:center;
+	padding: 13px;
+}
+
+.profile-img
+{
+	float: right;
+	width: 50px;
+	height: 50px;
+	padding: 2px;
+	border-radius: 50%;
+	background-color: white;
+}
+
+clear-fix
+{
+	clear: both;
+}
+
+#profile-image
+{   
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+
+}
+
+.sports-body
+{
+	margin:50px 285px;
+	border-radius: 3px;
+	background-color:  #ffffff;
+	box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.12);
+	overflow: hidden;
+}
+
+.team-nav-bar
+{
+	padding: 20px 32px 20px 40px;
+	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+	background-color:  #fbfbfb;
+	overflow: hidden;
+}
+
+#team-image
+{
+	width: 77px;
+	height: 77px;
+	border-radius: 50px;
+	float: left;
+}
+
+.team-info
+{
+	float: left;
+	padding: 18px;
+}
+
+.clear-fix
+{
+	clear:both;
+}
+
+.team-name-text
+{
+ 	font-family: Lato;
+	color:  #000000;
+	font-size: 18px;
+	font-weight: 700;
+}
+
+
+.dropdown-div
+{
+	float: right;
+	width: 33px;
+    height: 33px;
+    border-radius: 50%;
+    border-width: 2px;
+    border-style: solid;
+	background-color: #fbfbfb;
+	border-color: #e8e8e8;
+	margin-right: 0px;
+	margin-top: 20px;
+}
+
+.dropdown
+{
+    -webkit-transform: rotate(45deg);
+    float: right;
+	width: 4px;
+	height: 4px;
+	margin-right: 10px;
+	margin-top: 10px;
+
+}
+
+i.dropdown {
+  border: solid grey;
+  border-width: 0 2px 2px 0;
+  padding: 3px;
+  
+}
+
+
+.clear-fix
+{
+	clear: all;
+
+}
+.team-text
+{
+	font-family: Lato;
+	color:  #000000;
+	font-size: 18px;
+	font-weight: 400;
+}
+
+.tab-div
+{
+	background-color:  #ffffff;
+	box-shadow: 0px 3px 3.92px 0.08px rgba(0, 0, 0, 0.18);
+	padding: 30px 50px 0px 50px;
+	overflow: hidden;
+}
+
+.tab-div a:hover {
+  border-bottom: 3px solid #17a2d4;
+}
+
+.tab-div a {
+  display: block;
+  text-decoration: none;
+  padding-bottom: 30px;  
+}
+
+#profile
+{
+	float:left;	
+	font-family: Lato;
+	color:  #000000;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 0px;
+}
+
+#schedule
+{
+	float:left;
+	margin-left: 106px;
+	font-family: Lato;
+	color:  #000000;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 0px;
+}
+
+#roster
+{
+	float:left;
+	margin-left: 110px;
+	line-height: 0px;
+	font-family: Lato;
+	color:  #000000;
+	font-size: 16px;
+	font-weight: 400;
+}
+
+.upcoming-past-events-div
+{
+	clear: left;
+	float: left;
+
+}
+
+.create-new-event-div
+{
+	float: right;
+}
+
+.clear-fix
+{
+	clear: both;
+}
+
+.event-buttons-div
+{
+	padding: 18px 30px;
+	overflow: hidden;
+}
+
+.upcoming-past-events-div
+{
+	font-size: 0px;	
+}
+
+.upcoming-events-btn
+{
+	background-color: #e9e9e9;
+	padding: 9px 21px;
+	border-width: 1px;
+	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+}
+
+#upcoming-events-text
+{
+	font-family: Lato;
+	color: #010000;
+	font-size: 18px;
+	font-weight: 400;
+}
+
+.past-events-btn
+{
+	background-color: #17a2d4;
+	padding: 9px 43px;
+	border-width: 1px;
+	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+
+}
+
+#past-events-text
+{
+	font-family: Lato;
+	color: #ffffff;
+	font-size: 18px;
+	font-weight: 400;
+
+}
+
+.create-new-event-btn
+{
+	border-radius: 3px;
+	background-color:  #17a2d4;
+	border-width: 1px;
+	padding: 9px 17px;
+}
+
+#create-event-text
+{
+	font-family: Lato;
+	color:  #fefefe;
+	font-size: 18px;
+	font-weight: 400;
+}
+
+hr
+{	
+background-color:  #e9e9e9;
+height: 1px;
+-webkit-margin-before: 0em;
+-webkit-margin-after: 0em;
+border-style: none;
+}
+
+.Match-scores-nav
+{
+	padding: 10px 30px 7px 20px;
+	overflow: hidden;
+}
+
+#team1-img
+{
+	float: left;
+	width: 36px;
+	height: 36px;
+	border-radius: 250%;
+}
+
+.team1-name
+{
+	float: left;
+	padding: 6px 10px 0px 10px;
+	font-family: Lato;
+	color:  #000000;
+	font-size: 14px;
+	font-weight: 700;
+	margin-right: 15px;
+}
+
+
+#team2-img
+{
+	float: left;
+	width: 36px;
+	height: 36px;
+	border-radius: 250%;
+
+}
+
+.team2-name
+{
+	float: left;
+	padding: 6px 10px 0px 10px;
+	font-family: Lato;
+	color:  #000000;
+	font-size: 14px;
+	font-weight: 700;
+}
+
+.team1-name-text,.team2-name-text
+{
+	font-family: Lato;
+	color:  #000000;
+	font-size: 14px;
+	font-weight: 700;
+}
+
+.edit
+{
+	float: left;
+	color:#17a2d4;
+	padding: 7px;
+}
+
+#add-score-btn
+{
+	float: right;
+	border-radius: 3px;
+	background-color:  #17a2d4;
+	padding: 6px 15px;
+	border-width: 1px;
+
+	font-family: Lato;
+	color:  #fefefe;
+	font-size: 18px;
+	font-weight: 400;
+}
+
+.clear-fix
+{
+	clear: both;
+}
+
+.Match-scores-nav a:hover {
+  border-bottom: 3px solid #17a2d4;
+}
+
+.Match-scores-nav a {
+  display: block;
+  text-decoration: none;
+  padding-bottom: 18px;
+}
+
+.responsive-table
+{
+
+}
+
+table
+{
+	border-collapse: collapse;
+    width: 100%;
+
+}
+
+tr:nth-child(even){background-color:  rgba(1, 2, 2, 0.04)}
+tr:nth-child(odd){background-color:  rgba(1, 2, 2, 0.02)}
+
+th
+{
+	
+	font-family: Lato;
+	color:  #000000;
+	font-size: 10.98px;
+	font-weight: 400;
+	line-height: 24px;
+	padding: 8px 15px 8px 29px;
+	text-align: left;
+	background-color: #ffffff;
+}
+
+td
+{
+	font-family: Lato;
+	color:  #000000;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 24px;
+	padding: 8px 15px 8px 29px;
+	text-align: left;
+}
+
+.footer 
+{
+   background-color: white;
+   padding: 28px 31px;
+   overflow: hidden;
+
+}
+
+i.prev-icon {
+  border: solid black;
+  border-width: 0 2px 2px 0; 
+}
+
+.prev
+{
+	float: left;
+	font-family: Lato;
+	color:  #000000;
+	font-size: 18px;
+	font-weight: 400;
+	text-decoration:none;
+}
+
+.prev-icon
+{
+    -webkit-transform: rotate(135deg);
+    float: left;
+	width: 6px;
+	height: 6px;
+	margin-right: 4px;
+	margin-top: 8px;
+
+}
+
+i.next-icon 
+{
+  border: solid black;
+  border-width: 0 2px 2px 0;
+}
+
+.next
+{
+	float: right;
+	font-family: Lato;
+	color:  #000000;
+	font-size: 18px;
+	font-weight: 400;
+	text-decoration:none;
+	margin-right: 4px;
+}
+
+.next-icon
+{
+    -webkit-transform: rotate(-45deg);
+    float: right;
+	width: 6px;
+	height: 6px;
+	margin-top: 8px;
+}
+
+.clear-fix
+{
+	clear: both;
+}
+
+
+
+
+
+
